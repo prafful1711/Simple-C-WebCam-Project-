@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2010\Projects\WebCam\WebCam\bin\Debug\WebCam.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\obj\x86\Debug\WebCam.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\obj\x86\Debug\WebCam.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\obj\x86\Debug\WebCam.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\obj\x86\Debug\WebCam.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\obj\x86\Debug\WebCam.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\obj\x86\Debug\WebCam.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\bin\Debug\WebCam.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\bin\Debug\AForge.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\bin\Debug\AForge.Video.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
